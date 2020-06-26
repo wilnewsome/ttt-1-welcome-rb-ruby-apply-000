@@ -1,4 +1,4 @@
- lib/welcome.rb
+def lib/welcome.rb
 puts "Welcome to Tic Tac Toe!"
 filter_parameter_loggingruby
 lib/welcome.rb
