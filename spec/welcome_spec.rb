@@ -1,4 +1,4 @@
-describe lib/welcome.rb
+ruby lib/welcome.rb
 puts "Welcome to Tic Tac Toe!"
 describe "lib/welcome.rb" do
   it 'prints "Welcome to Tic Tac Toe!"' do
